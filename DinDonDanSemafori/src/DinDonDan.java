@@ -9,11 +9,6 @@ import java.util.logging.Logger;
 
 public class DinDonDan {
 
-    /**
-     * @brief Main per la gestione dei suoni.
-     *
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
         
